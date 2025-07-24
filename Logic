@@ -1,8 +1,5 @@
 
+Logic for contains duplicate 
 
-
- 1 -> 2 -> 3 -> 4 -> 5  n = 2
-            d              h
-create  - > res and dummy ll
-d.next.next
-return result.next
+Input: [1, 2, 3, 3]
+        
